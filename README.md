@@ -40,15 +40,11 @@ Este projeto é um projeto desenvolvido em React para gerenciar especificações
 
 Clone o repositório:
 
-bash
-
-git clone https://github.com/oliveiradeflavio/react-password-manager.git
+    git clone https://github.com/oliveiradeflavio/react-password-manager.git
 
 Instale as dependências:
 
-bash
-
-npm install
+    npm install
 
 Defina as variáveis de ambiente:
 
@@ -56,12 +52,15 @@ Defina as variáveis de ambiente:
 
 Execute o projeto:
 
-bash
-
-npm run dev
+    npm run dev
 
 
+Backend
 
+    Versão do PHP 8 ou superior
+
+
+    Crie o banco de dados com o script SQL
 
 #### Screenshots
 
