@@ -9,7 +9,7 @@
 
 ### Sobre o Projeto
 
-Este projeto é um projeto desenvolvido em React para gerenciar especificações e autenticações de serviços. Ele permite que os usuários possam criar, editar e excluir especificações, incluindo informações como login, senha e outras observações relevantes. O projeto faz uso de APIs para buscar, criar e atualizar essas informações de maneira dinâmica.
+Este projeto foi desenvolvido em React para gerenciar especificações e autenticações de serviços. Ele permite que os usuários possam criar, editar e excluir especificações, incluindo informações como login, senha e outras observações relevantes. O projeto faz uso de APIs para buscar, criar e atualizar essas informações de maneira dinâmica.
 
 * ##### Cadastro e Edições de Serviços:
 
