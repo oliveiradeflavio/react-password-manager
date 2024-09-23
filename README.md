@@ -65,21 +65,18 @@ npm run dev
 
 #### Screenshots
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/telacadastroproduto.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/telavendaproduto.png)
+![](https://github.com/oliveiradeflavio/react-password-manager/blob/main/src/assets/img/home.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/telavendapagamento.png)
+![](https://github.com/oliveiradeflavio/react-password-manager/blob/main/src/assets/img/autenticacao.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/hpdv-img.png)
+![](https://github.com/oliveiradeflavio/react-password-manager/blob/main/src/assets/img/dashboard.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/hpdv-img3.png)
+![](https://github.com/oliveiradeflavio/react-password-manager/blob/main/src/assets/img/busca.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/hpdv-img4.png)
+![](https://github.com/oliveiradeflavio/react-password-manager/blob/main/src/assets/img/edicao.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/hpdv-img5.png)
 
-![](https://github.com/oliveiradeflavio/horus_pdv/blob/main/img/hpdv-img6.png)
 
 
 
