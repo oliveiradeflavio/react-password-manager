@@ -59,7 +59,6 @@ Backend
 
     Versão do PHP 8 ou superior
 
-
     Crie o banco de dados com o script SQL
 
 #### Screenshots
