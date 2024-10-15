@@ -84,4 +84,4 @@ Backend
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fladoliveira/
-[product-screenshot]: https://raw.githubusercontent.com/oliveiradeflavio/horus_pdv/main/screen/dashboard.png
+[product-screenshot]: https://raw.githubusercontent.com/oliveiradeflavio/react-password-manager/main/screen/dashboard.png
